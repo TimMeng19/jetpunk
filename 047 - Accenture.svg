@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2500"
+   height="715"
+   viewBox="88.623 335.663 433.66 124.019"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="accenture-2.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.38664599"
+     inkscape:cx="1469.0441"
+     inkscape:cy="143.54216"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <path
+     fill="#231f20"
+     d="m 120.172,433.458 c 0,7.235 -2.972,16.963 -11.748,16.963 -4.4,0 -6.99,-2.267 -6.99,-6.773 0.002,-8.505 12.459,-10.19 18.738,-10.19 m 12.587,24.905 v -40.206 c 0,-13.035 -8.554,-17.539 -20.538,-17.539 -11.72,0 -21.48,4.979 -21.48,17.912 h 12.838 c 0,-5.586 2.968,-8.654 8.643,-8.654 6.513,0 7.951,4.724 7.951,10.304 v 5.578 c -12.811,0.354 -31.549,2.139 -31.549,19.1 0,9.603 7.597,14.821 16.599,14.821 6.173,0 11.862,-2.02 14.722,-7.833 h 0.229 v 6.518 h 12.585 m 233.22,-47.314 h 16.769 v -9.16 h -16.769 v -18.714 l -13.108,5.333 v 13.378 c -15.01098,-1.43298 -15.01098,9.16 0,9.16 v 33.082 c 0,11.753 5.75,15.548 17.292,15.548 3.574,0 7.222,-0.343 10.76,-0.938 v -9.267 c -1.983,0.489 -3.989,0.943 -6.039,0.943 -8.206,0 -8.907,-6.045 -8.907,-12.699 V 411.05"
+     id="path2"
+     sodipodi:nodetypes="cscccssccsscssccccccccccccssccssc" />
+  <path
+     fill="#27AAE1"
+     d="M341.81 335.663v9.285s26.291 10.188 30.055 11.653c-3.764 1.443-30.055 11.58-30.055 11.58v9.272l40.948-16.636v-8.51l-40.948-16.644"
+     id="path4" />
+</svg>

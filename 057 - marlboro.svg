@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="2491"
+   viewBox="18 17.5 767.024 772.688"
+   width="2500"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="marlboro-logo.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.32436772"
+     inkscape:cx="1180.7587"
+     inkscape:cy="1521.4214"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <path
+     d="m 408.291,520.039 v 16.133 h 13.216 v 169.23 c -0.031,1.401 -0.172,2.859 -0.172,4.29 0,1.414 0.14,2.734 0.172,4.12 v 53.377 h -6.179 v 18.88 h 35.7 v -1.374 c 5.637,3.217 11.438,4.978 16.648,4.978 11.368,0 24.233,-7.586 32.438,-23 8.205,-15.412 12.358,-34.458 12.358,-56.98 0,-22.714 -4.153,-41.79 -12.358,-57.154 -8.205,-15.365 -21.07,-22.999 -32.438,-23 -3.42,10e-4 -7.073,0.689 -10.813,2.06 l 0.515,-111.56 z m -384.97,61.1 v 16.134 H 34.477 V 767.19 H 22.806 v 18.88 H 56.789 V 767.19 H 48.207 V 599.333 l 26.775,186.735 h 26.603 L 128.53,598.99 v 168.2 H 114.8 v 18.88 h 60.929 V 767.19 H 162.513 V 597.273 h 13.216 V 581.14 h -58.87 L 98.667,701.282 80.646,581.14 Z m 444.355,63.847 c 12.596,-0.81 11.022,20.392 11.156,32.096 l 0.172,32.438 v 32.61 c 0.378,12.323 0.456,27.97 -11.328,28.491 -7.802,0.346 -10.37,-6.525 -11.328,-14.588 l 0.344,-99.89 c 1.39,-6.224 4.396,-10.732 10.984,-11.156 z"
+     id="path2"
+     sodipodi:nodetypes="ccccsccccccscscccccccccccccccccccccccccccccccccccccccc" />
+  <path
+     d="m18 544.754v-527.254h766.165v527.254l-383.082-236.166z"
+     fill="#c60000"
+     fill-rule="evenodd"
+     id="path4" />
+</svg>
