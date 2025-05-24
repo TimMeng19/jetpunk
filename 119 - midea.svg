@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   clip-rule="evenodd"
+   fill-rule="evenodd"
+   height="962"
+   image-rendering="optimizeQuality"
+   shape-rendering="geometricPrecision"
+   text-rendering="geometricPrecision"
+   viewBox="-1 0 1420.76 1244"
+   width="1100"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="midea-1.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.5028"
+     inkscape:cx="811.45585"
+     inkscape:cy="481.30469"
+     inkscape:window-width="1536"
+     inkscape:window-height="841"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4" />
+  <g
+     fill="#00b0f0"
+     fill-rule="nonzero"
+     id="g4">
+    <path
+       d="m 1292,439 h -108 c -12,0 -10,11 -10,11 2,14 5,37 5,85 0,106 -13,258 -129,403 l -8,10 c 0,0 -70,-488 -71,-497 0,0 0,-11 -10,-11 H 852 c -10,0 -10,11 -10,11 -3,56 -34,526 -377,602 73,8 161,-15 238,-62 95,-59 159,-146 180,-246 0,0 42,262 47,322 v 4 l -3,2 c -96,51 -205,79 -314,79 -270,0 -509,-160 -614,-404 62,287 318,496 617,496 349,0 557,-292 593,-500 0,0 47,303 48,313 h 143 c -2,-13 -97,-595 -98,-604 0,0 0,-11 -10,-11 z M 83,694 C 83,374 353,114 684,114 889,114 1080,217 1191,384 1110,156 884,0 631,0 304,0 38,255 38,568 38,654 59,738 98,815 89,776 83,735 83,695 Z"
+       id="path2"
+       sodipodi:nodetypes="cscssccsscccccccscsccccccsscsscss" />
+  </g>
+</svg>
