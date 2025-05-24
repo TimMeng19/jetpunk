@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="671"
+   viewBox=".049 .062 134.23 35.875"
+   width="2500"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="tesco-logo.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.2514"
+     inkscape:cx="787.5895"
+     inkscape:cy="135.24264"
+     inkscape:window-width="1536"
+     inkscape:window-height="841"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g6" />
+  <g
+     stroke="#fff"
+     id="g6">
+    <path
+       d="m10.313 29.781c-2.684 0-4.858 1.537-5.907 2.625 0 0-2.552 2.531-4.281 3.407-.076.04-.075.124.031.124h15.625c3.09 0 4.541-1.046 6.375-2.687 0 0 2.67-2.481 4.5-3.281.185-.07.142-.188 0-.188zm26.843 0c-2.683 0-4.856 1.537-5.906 2.625 0 0-2.553 2.531-4.281 3.407-.077.04-.075.124.031.124h15.656c3.089 0 4.542-1.046 6.375-2.687 0 0 2.639-2.481 4.469-3.281.185-.07.171-.188.031-.188zm26.875 0c-2.684 0-4.856 1.537-5.906 2.625 0 0-2.553 2.531-4.281 3.407-.077.04-.074.124.031.124h15.656c3.089 0 4.51-1.046 6.344-2.687 0 0 2.671-2.481 4.5-3.281.186-.07.171-.188.031-.188zm26.844 0c-2.683 0-4.825 1.537-5.875 2.625 0 0-2.584 2.531-4.313 3.407-.076.04-.073.124.032.124h15.656c3.089 0 4.541-1.046 6.375-2.687 0 0 2.671-2.481 4.5-3.281.186-.07.14-.188 0-.188zm26.875 0c-2.683 0-4.857 1.537-5.906 2.625 0 0-2.553 2.531-4.281 3.407-.078.04-.076.124.03.124h15.657c3.089 0 4.54-1.046 6.375-2.687 0 0 2.64-2.481 4.469-3.281.185-.07.172-.188.031-.188z"
+       fill="#1a5ca3"
+       stroke-miterlimit="11.474"
+       stroke-width=".079"
+       id="path2" />
+    <path
+       d="M 1,0.844 V 6.375 C 2.93,4.879 6.966,4.315 11.375,4.281 v 15.094 c 0,2.196 -0.194,2.82 -1.125,3.969 h 8.719 C 17.99,22.195 17.844,21.571 17.844,19.375 V 4.156 c 3.821,0.034 8.382,0.723 10.312,2.219 V 0.844 Z"
+       fill="#ee333e"
+       stroke-miterlimit="3.864"
+       stroke-width="0.03"
+       id="path4"
+       sodipodi:nodetypes="cccsccscccc" />
+  </g>
+</svg>
